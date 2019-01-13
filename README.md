@@ -1,5 +1,5 @@
 # walt-quick-start
-a demo for those guys which want to experience [walt](https://github.com/ballercat/walt) in a simply way
+a demo for those guys who want to experience [walt](https://github.com/ballercat/walt) in a simply way
 
 ## Install
 
